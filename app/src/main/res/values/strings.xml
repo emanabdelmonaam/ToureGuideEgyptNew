@@ -1,0 +1,213 @@
+<resources>
+    <string name="app_name">Outing in Cairo</string>
+    <string name="text_discrabtion">hjgjgkgkhghjghjfghfnbbnghjghjvjfgvgjfgjhjvjfgjvgjhjvhj
+    ghfhffgfjjhjgbnbkhgkjbxchchxcgxjcgxjcgxjcgxjcgjxcgjxgjxcgjxcgxcj</string>
+    <string name="text_phone_one">0158658769767</string>
+    <string name="text_web_one">www.ghghjghj</string>
+    <string name="text_place_one">St. ghfjfjgfhjh</string>
+    <string name="category_activity">Activity</string>
+    <string name="category_hospital">Hospital</string>
+    <string name="category_restaurant">Restaurant</string>
+    <string name="category_tourism">Tourism</string>
+    <string name="category_shopping">Shopping</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Outing_in_Cairo">Outing in Cairo</string>
+
+    <string name="pyramid_name">Giza pyramid complex</string>
+    <string name="pyramid_text">The Giza pyramid complex is an archaeological site on the Giza Plateau, on the outskirts of Cairo, Egypt</string>
+    <string name="pyramid_web">https://en.wikipedia.org/wiki/Giza_pyramid_complex</string>
+    <string name="pyramid_location"></string>
+
+    <string name="Sphinx_name">Great Sphinx of Giza</string>
+    <string name="Sphinx_text">The Great Sphinx of Giza, commonly referred to as the Sphinx of Giza or just the Sphinx, is a limestone statue of a reclining sphinx, a mythical creature with the body of a lion and the head of a human.</string>
+    <string name="Sphinx_web">https://en.wikipedia.org/wiki/Great_Sphi</string>
+    <string name="Sphinx_place">Giza</string>
+
+    <string name="Egyptian_Museum_name">Egyptian Museum</string>
+    <string name="Egyptian_Museum_text">The Museum of Egyptian Antiquities, known commonly as the Egyptian Museum or Museum of Cairo, in Cairo, Egypt, is home to an extensive collection of ancient Egyptian antiquities.</string>
+    <string name="Egyptian_Museum_web">https://en.wikipedia.org/wiki/Egyptian_Museum</string>
+    <string name="Egyptian_Museum_place">Downtown Cairo</string>
+
+    <string name="Giza_pyramid_name">Giza pyramid complex</string>
+    <string name="Giza_pyramid_text">The Giza pyramid complex is an archaeological site on the Giza Plateau, on the outskirts of Cairo, Egypt.</string>
+    <string name="Giza_pyramid_web">https://en.wikipedia.org/wiki/Giza_pyramid_complex</string>
+    <string name="Giza_pyramid_place">Giza</string>
+
+    <string name="Saqqara_name">Saqqara</string>
+    <string name="Saqqara_text">Saqqara, also spelled Sakkara or Saccara in English, is a vast, ancient burial ground in Egypt, serving as the necropolis for the Ancient Egyptian capital, Memphis. </string>
+    <string name="Saqqara_web">https://en.wikipedia.org/wiki/Saqqara</string>
+    <string name="Saqqara_place">Giza</string>
+
+
+    <string name="Citadel_of_Qaitbay_name">Citadel of Qaitbay</string>
+    <string name="Citadel_of_Qaitbay_text">The Citadel of Qaitbay is a 15th-century defensive fortress located on the Mediterranean sea coast, in Alexandria, Egypt. It was established in 1477 AD by Sultan Al-Ashraf Sayf al-Din Qa_it Bay.</string>
+    <string name="Citadel_of_Qaitbay_web">https://en.wikipedia.org/wiki/Citadel_of_Qaitbay</string>
+    <string name="Citadel_of_Qaitbay_phon">-------------</string>
+    <string name="Citadel_of_Qaitbay_place">Alexandria</string>
+
+
+    <string name="Sultan_Hassan_name">Mosque-Madrassa of Sultan Hassan</string>
+    <string name="Sultan_Hassan_text">The Mosque-Madrassa of Sultan Hassan is a massive mosque and madrassa located in the Old city of Cairo, it was built during the Mamluk Islamic era in Egypt.</string>
+    <string name="Sultan_Hassan_web">https://en.wikipedia.org/wiki/Mosque-Madrassa_of_Sultan_Hassan</string>
+    <string name="Sultan_Hassan_phon">-------------</string>
+    <string name="Sultan_Hassan_place">Al Azhar</string>
+
+
+    <string name="Church_name">The Hanging Church</string>
+    <string name="Church_text">Saint Virgin Mary is Coptic Orthodox Church also known as the Hanging Church is one of the oldest churches in Egypt and the history of a church on this site dates to the 3rd century AD</string>
+    <string name="Church_web">https://en.wikipedia.org/wiki/The_Hanging_Church</string>
+    <string name="Church_phon">-------------</string>
+    <string name="Church_place">Kom Ghorab- Cairo</string>
+
+
+    <string name="Al_Azhar_Park_name">Al Azhar Park</string>
+    <string name="Al_Azhar_Park_text">Al-Azhar Park is a public park located in Cairo, Egypt. Among several honors, this park is listed as one of the world iss sixty great public spaces by the Project for Public Spaces.</string>
+    <string name="Al_Azhar_Park_web">https://en.wikipedia.org/wiki/Al-Azhar_Park</string>
+    <string name="Al_Azhar_Park_phon">-------------</string>
+    <string name="Al_Azhar_Park_place">Al Azhar</string>
+
+
+    <string name="Khan_el_Khalili_name">Khan el-Khalili</string>
+    <string name="Khan_el_Khalili_text">Khan el-Khalili is a major souk in the historic center of Islamic Cairo. The bazaar district is one of Cairo-s main attractions for tourists and Egyptians alike.</string>
+    <string name="Khan_el_Khalili_web">https://en.wikipedia.org/wiki/Khan_el-Khalili</string>
+    <string name="Khan_el_Khalili_phon">-------------</string>
+    <string name="Khan_el_Khalili_place">Al Azhar</string>
+
+
+    <string name="Cairo_Citadel_name">Cairo Citadel</string>
+    <string name="Cairo_Citadel_text">The Saladin Citadel of Cairo is a medieval Islamic fortification in Cairo, Egypt. The location, on Mokattam hill near the center of Cairo, was once famous for its fresh breeze and grand views of the city.</string>
+    <string name="Cairo_Citadel_web">https://en.wikipedia.org/wiki/Cairo_Citadel</string>
+    <string name="Cairo_Citadel_phon">-------------</string>
+    <string name="Cairo_Citadel_place">Al Abageyah</string>
+
+
+    <string name="restelnail_name">El Nile Restaurant</string>
+    <string name="restelnail_text">Asian Food</string>
+    <string name="restelnail_web">https://www.elmenus.com/cairo/restaurants/el-nile-restaurant-5916/nasr-city-8344</string>
+    <string name="restelnail_phon">01149681751</string>
+    <string name="restelnail_place">4 Abou Haneefa Street- Cairo</string>
+
+
+    <string name="left_bank_name">Left Bank</string>
+    <string name="left_bank_text">Breakfast , Work Or Study , Romantic , Food with a View , Artisanal Pizza</string>
+    <string name="left_bank_web">https://www.facebook.com/leftbankonline/</string>
+    <string name="left_bank_phon">0227350014</string>
+    <string name="left_bank_place">Zamalic</string>
+
+    <string name="Maharaja_name">Maharaja</string>
+    <string name="Maharaja_text">Authentic Cuisines , Vegetarians - Indian Food</string>
+    <string name="Maharaja_web">https://www.facebook.com/maharaja.eg/?rf=790788337640268</string>
+    <string name="Maharaja_phon">16396</string>
+    <string name="Maharaja_place">Maadi, Cairo</string>
+
+    <string name="Go_Crepe_name">Go Crepe</string>
+    <string name="Go_Crepe_text">Fast Food</string>
+    <string name="Go_Crepe_web">https://www.facebook.com/Go.Crepe.eg/?ref=py_c</string>
+    <string name="Go_Crepe_phon">01155108377</string>
+    <string name="Go_Crepe_place">New Cairo</string>
+
+    <string name="Zack_Chicken_name">Zacks Chicken</string>
+    <string name="Zack_Chicken_text">Sandwiches, Grill</string>
+    <string name="Zack_Chicken_web">https://www.facebook.com/zacksrestaurant/</string>
+    <string name="Zack_Chicken_phon">01009310272</string>
+    <string name="Zack_Chicken_place">Dandy Mall</string>
+
+    <string name="Zenzero_name">Zenzero</string>
+    <string name="Zenzero_text">Sandwiches, Fast Food, Coffee, Drinks</string>
+    <string name="Zenzero_web">https://www.facebook.com/ZenzeroStreetFood/</string>
+    <string name="Zenzero_phon">01015494993</string>
+    <string name="Zenzero_place">Zamalic</string>
+
+    <string name="The_Namu_name">The Namu</string>
+    <string name="The_Namu_text">Work Or Study - Korean Food</string>
+    <string name="The_Namu_web">https://www.elmenus.com/cairo/restaurants/the-namu-7870/heliopolis-10936</string>
+    <string name="The_Namu_phon">01278362015</string>
+    <string name="The_Namu_place">5 Ghernata Street, Roxy</string>
+
+    <string name="Qahwa_name">Qahwa</string>
+    <string name="Qahwa_text">Breakfast , Casual Dining International</string>
+    <string name="Qahwa_web"> https://www.facebook.com/qahwaegy/</string>
+       <string name="Qahwa_phon">01202058008</string>
+    <string name="Qahwa_place">New Cairo</string>
+
+    <string name="Paul_name">Paul</string>
+    <string name="Paul_text">Breakfast , Desserts Chocolate , Desserts Ice Cream , Casual Dining</string>
+    <string name="Paul_web">https://www.facebook.com/PAUL1889.arabia/</string>
+    <string name="Paul_phon">0223146192</string>
+    <string name="Paul_place">Inside Down Town Mall</string>
+
+    <string name="hos_dar_name">Dar Al Fouad</string>
+    <string name="hos_dar_text">Dar Al-Fouad is a hospital in Giza, Egypt, on the outskirts of Cairo. It offers cardiothoracic surgery, cardiology, oncology, organ transplant, and orthopedic departments. Dar Al Fouad Hospital provides medical and surgical care to patients.</string>
+    <string name="hos_dar_web">http://daralfouad.org/ar/</string>
+    <string name="hos_dar_phon">16370</string>
+    <string name="hos_dar_place">26th of July Corridor, Giza Governorate</string>
+
+    <string name="hos_air_name">Air Force Specialized Hospital</string>
+    <string name="hos_air_text">Open 24 hours</string>
+    <string name="hos_air_web"></string>
+    <string name="hos_air_phon">19448</string>
+    <string name="hos_air_place">S Teseen, Cairo Governorate</string>
+
+    <string name="hos_sau_name">Saudi German Hospital – Cairo</string>
+    <string name="hos_sau_text">SGH-Cairo is a tertiary care hospital that aims to become the premier healthcare provider and the employer of choice drawing the best talent in the MENA region.</string>
+    <string name="hos_sau_web">http://sghcairo.com/en/</string>
+    <string name="hos_sau_phon">16259</string>
+    <string name="hos_sau_place">47 El-Nozha, Huckstep, Heliopolis, Cairo Governorate</string>
+
+    <string name="acti_dodge_name">Dodge arrow</string>
+    <string name="acti_dodge_text">Hit the target OR be the target</string>
+    <string name="acti_dodge_web">https://www.facebook.com/DodgeArrow/</string>
+    <string name="acti_dodge_phon"></string>
+    <string name="acti_dodge_place">Cairo</string>
+
+    <string name="activ_auto_name">Autovroom</string>
+    <string name="activ_auto_text">AutoVrooom, the first international professional racing track in Cairo for both rental and professional kart racing extending on an area of 700 m.A new experience that you will never forget</string>
+    <string name="activ_auto_web">https://www.facebook.com/Autovrooom/</string>
+    <string name="activ_auto_phon"></string>
+    <string name="activ_auto_place">Obour City</string>
+
+    <string name="act_fami_name">Family Park</string>
+    <string name="act_fami_text">A marvelous park with astonishing activities for all ages. If you are looking for an open area park for relaxation and fun, you have got the right place</string>
+    <string name="act_fami_web">https://www.facebook.com/FamilyPark.NewCairo/</string>
+    <string name="act_fami_phon"></string>
+    <string name="act_fami_place">New Cairo</string>
+
+    <string name="act_grav_name">GRAVITY CODE</string>
+    <string name="act_grav_text">Gravity Code is Egypt first indoor trampoline park. It is Serious FUN!</string>
+    <string name="act_grav_web">https://www.facebook.com/pg/gravitycode.me/about/?ref=page_internal</string>
+    <string name="act_grav_phon"></string>
+    <string name="act_grav_place">New Cairo</string>
+
+    <string name="acti_adrin_name">ADRENALIN Park </string>
+    <string name="acti_adrin_text">ADRENALIN Park is the only Outdoors Recreation Venue in Egypt specialized in providing Adrenalin-Rush games in a very safe environment located in 6th of october city focusing on Paintball, Laser Fight, Aqua Fight and Treasure Hunt. Adrenalin serves both Corporate and Retail Clients; in Adrenalin Venue and in External Events.for Laser and Aqua.</string>
+    <string name="acti_adrin_web">http://www.adrenalinegypt.com/</string>
+    <string name="acti_adrin_phon"></string>
+    <string name="acti_adrin_place">6 October</string>
+
+    <string name="acti_break_name">Break Out Egypt</string>
+    <string name="acti_break_text">Break Out  Egypt  Real Room Escape</string>
+    <string name="acti_break_web">https://www.facebook.com/pg/BreakOutEgypt/about/?ref=page_internal</string>
+    <string name="acti_break_phon"></string>
+    <string name="acti_break_place">New Cairo</string>
+
+    <string name="mall_cairo_name">Cairo Festival City Mall</string>
+    <string name="mall_cairo__text">A state-of-the-art, centralized customer contact centre, run by City Management will offer residents and guests a 24/7 service to ensure that Cairo Festival City is maintained and operated at the highest standard.</string>
+    <string name="mall_cairo__web">https://www.facebook.com/pg/CairoFestivalCityMall/about/?ref=page_internal</string>
+    <string name="mall_cairo__phon"></string>
+    <string name="mall_cairo__place">New Cairo</string>
+
+    <string name="mallpoin_name">Point90 Mall</string>
+    <string name="mallpoin__text">Point 90 offers large-scale and premium shopping mall and service over 110 Units on 3 floors with leading domestic - international mid to high-end brands.</string>
+    <string name="mallpoin__web">https://www.facebook.com/Point90Mall/</string>
+    <string name="mallpoin__phon"></string>
+    <string name="mallpoin__place">New Cairo</string>
+
+    <string name="mallegypt_name">Mall of Egypt</string>
+    <string name="mallegypt_text">IMAGINE the best of local and international retailers, restaurants - cafes, extraordinary entertainment experiences - countless unforgettable Moments Together.</string>
+    <string name="mallegypt_web">https://www.facebook.com/pg/MallOfEgypt/about/?ref=page_internal</string>
+    <string name="mallegypt_phon"></string>
+    <string name="mallegypt_place">October 6, Al Jizah,</string>
+
+
+
+</resources>

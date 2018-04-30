@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/layout_background"
+    style="@style/first_layout_list">
+
+    <TextView
+            android:id="@+id/text_guide"
+            style="@style/text_name_tayp_outing"/>
+
+    <ImageView
+            android:id="@+id/image_outing"
+            style="@style/image_outing"/>
+
+    <TextView
+            android:id ="@+id/text_discreption_guid"
+            android:fontFamily="sans-serif-light"
+            android:textAlignment="center"
+             style="@style/text_outing"/>
+
+    <LinearLayout
+            style="@style/liner_place"
+            android:layout_weight="1">
+            <ImageView
+                style="@style/image_call"
+                android:layout_weight="0"/>
+            <TextView
+                android:textAlignment="center"
+                style="@style/teext_place"
+                android:layout_weight="1"
+                android:id="@+id/phone_number"/>
+    </LinearLayout>
+
+    <LinearLayout
+            style="@style/liner_web"
+            android:layout_weight="1">
+            <ImageView
+                style="@style/image_web"
+                android:layout_weight="0"/>
+            <TextView
+                style="@style/teext_webb"
+                android:textAlignment="center"
+                android:layout_weight="1"
+                android:id="@+id/website_outing"/>
+    </LinearLayout>
+</LinearLayout>

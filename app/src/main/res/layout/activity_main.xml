@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/Layout_main_match"
+    tools:context=".MainActivity">
+    <LinearLayout
+        style="@style/Layout_main_match"
+        android:orientation="vertical">
+
+        <android.support.design.widget.AppBarLayout
+            style="@style/AppBarLayout"
+            android:elevation="@dimen/zero"
+            android:id="@+id/app_bar">
+            <TextView
+                android:id="@+id/image_resource"
+                style="@style/text_app_bar"/>
+        </android.support.design.widget.AppBarLayout>
+
+        <android.support.design.widget.TabLayout
+            android:id="@+id/tab_layout"
+            app:tabMode="scrollable"
+            app:tabGravity="fill"
+            style="@style/TabLayout">
+        </android.support.design.widget.TabLayout>
+
+        <android.support.v4.view.ViewPager
+           style="@style/Layout_main_match"
+            android:id="@+id/view_pager">
+        </android.support.v4.view.ViewPager>
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>

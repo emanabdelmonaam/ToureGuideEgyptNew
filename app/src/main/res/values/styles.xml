@@ -1,0 +1,133 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="Layout_main_match">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+
+    <style name="AppBarLayout">
+        <item name="android:layout_height">@dimen/image_main_height</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="text_app_bar">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:gravity">center</item>
+        <item name="android:text">@string/Outing_in_Cairo</item>
+        <item name="android:textSize">@dimen/text_main</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:background">@drawable/photobackground1</item>
+    </style>
+
+    <style name="TabLayout">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/tab_height</item>
+        <item name="android:paddingLeft">@dimen/padding_main_r_l</item>
+        <item name="android:paddingRight">@dimen/padding_main_r_l</item>
+        <item name="tabIndicatorColor">@color/colorWaite</item>
+        <item name="tabIndicatorHeight">@dimen/tab_indicator_height</item>
+        <item name="tabSelectedTextColor">@color/colorWaite</item>
+        <item name="android:background">@color/colorGray</item>
+        <item name="tabTextColor">@color/colorPrimary</item>
+    </style>
+
+    <style name="first_layout_list">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:minHeight">@dimen/list_item_height</item>
+        <item name="android:background">@color/tan_background</item>
+    </style>
+
+    <style name="text_name_tayp_outing">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">@dimen/margin_t_b</item>
+        <item name="android:layout_marginTop">@dimen/margin_t_b</item>
+        <item name="android:gravity">bottom|center</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/text_outing_nam_s</item>
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+    </style>
+
+   <style name="image_outing">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/image_oting_height</item>
+        <item name="android:scaleType">centerCrop</item>
+   </style>
+
+    <style name="text_outing">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:padding">@dimen/padding_main_r_l</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/text_text_s</item>
+    </style>
+
+    <style name="liner_place">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:layout_marginRight">@dimen/margin_t_b</item>
+        <item name="android:layout_marginLeft">@dimen/margin_t_b</item>
+        <item name="android:padding">@dimen/tab_indicator_height</item>
+    </style>
+
+    <style name="teext_place">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textSize">@dimen/text_text_s</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+    </style>
+
+    <style name="image_call">
+        <item name="android:layout_width">@dimen/image_smal_h_w</item>
+        <item name="android:layout_height">@dimen/image_smal_h_w</item>
+        <item name="android:background">@drawable/ic_location_on_black_24dp</item>
+        <item name="android:layout_marginRight">@dimen/margin_t_b</item>
+    </style>
+
+    <style name="liner_web">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:layout_marginTop">@dimen/tab_indicator_height</item>
+        <item name="android:layout_margin">@dimen/margin_t_b</item>
+        <item name="android:padding">@dimen/tab_indicator_height</item>
+    </style>
+
+    <style name="image_web">
+        <item name="android:layout_width">@dimen/image_smal_h_w</item>
+        <item name="android:layout_height">@dimen/image_smal_h_w</item>
+        <item name="android:background">@drawable/webicon</item>
+        <item name="android:layout_marginRight">@dimen/margin_t_b</item>
+    </style>
+
+    <style name="teext_webb">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textSize">@dimen/text_text_s</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginBottom">@dimen/margin_t_b</item>
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:autoLink">web</item>
+        <item name="android:textColorLink">@color/colorBlack</item>
+    </style>
+    
+    <style name="Theme"></style>
+
+
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#90CAF9</color>
+    <color name="colorPrimaryDark">#90CAF9</color>
+    <color name="tan_background">#FFF7DA</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPage">#dac3a2</color>
+    <color name="colorOrangBrawen">#e69c5c</color>
+    <color name="colorBrawen">#944b34</color>
+    <color name="colorLiteBlou">#4996b3</color>
+    <color name="colorDarkBlou">#203c4b</color>
+    <color name="colorGray">#616161</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorWaite">#ffffff</color>
+</resources>
