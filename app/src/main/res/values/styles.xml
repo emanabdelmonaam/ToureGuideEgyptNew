@@ -127,7 +127,6 @@
         <item name="android:textColorLink">@color/colorBlack</item>
     </style>
     
-    <style name="Theme"></style>
-
-
+    <style name="Theme">
+    </style>
 </resources>
