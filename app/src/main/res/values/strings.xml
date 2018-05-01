@@ -1,10 +1,9 @@
 <resources>
     <string name="app_name">Outing in Cairo</string>
-    <string name="text_discrabtion">hjgjgkgkhghjghjfghfnbbnghjghjvjfgvgjfgjhjvjfgjvgjhjvhj
-    ghfhffgfjjhjgbnbkhgkjbxchchxcgxjcgxjcgxjcgxjcgjxcgjxgjxcgjxcgxcj</string>
+    <string name="text_discrabtion"></string>
     <string name="text_phone_one">0158658769767</string>
-    <string name="text_web_one">www.ghghjghj</string>
-    <string name="text_place_one">St. ghfjfjgfhjh</string>
+    <string name="text_web_one">www.</string>
+    <string name="text_place_one">St. </string>
     <string name="category_activity">Activity</string>
     <string name="category_hospital">Hospital</string>
     <string name="category_restaurant">Restaurant</string>
@@ -38,13 +37,11 @@
     <string name="Saqqara_web">https://en.wikipedia.org/wiki/Saqqara</string>
     <string name="Saqqara_place">Giza</string>
 
-
     <string name="Citadel_of_Qaitbay_name">Citadel of Qaitbay</string>
     <string name="Citadel_of_Qaitbay_text">The Citadel of Qaitbay is a 15th-century defensive fortress located on the Mediterranean sea coast, in Alexandria, Egypt. It was established in 1477 AD by Sultan Al-Ashraf Sayf al-Din Qa_it Bay.</string>
     <string name="Citadel_of_Qaitbay_web">https://en.wikipedia.org/wiki/Citadel_of_Qaitbay</string>
     <string name="Citadel_of_Qaitbay_phon">-------------</string>
     <string name="Citadel_of_Qaitbay_place">Alexandria</string>
-
 
     <string name="Sultan_Hassan_name">Mosque-Madrassa of Sultan Hassan</string>
     <string name="Sultan_Hassan_text">The Mosque-Madrassa of Sultan Hassan is a massive mosque and madrassa located in the Old city of Cairo, it was built during the Mamluk Islamic era in Egypt.</string>
@@ -52,13 +49,11 @@
     <string name="Sultan_Hassan_phon">-------------</string>
     <string name="Sultan_Hassan_place">Al Azhar</string>
 
-
     <string name="Church_name">The Hanging Church</string>
     <string name="Church_text">Saint Virgin Mary is Coptic Orthodox Church also known as the Hanging Church is one of the oldest churches in Egypt and the history of a church on this site dates to the 3rd century AD</string>
     <string name="Church_web">https://en.wikipedia.org/wiki/The_Hanging_Church</string>
     <string name="Church_phon">-------------</string>
     <string name="Church_place">Kom Ghorab- Cairo</string>
-
 
     <string name="Al_Azhar_Park_name">Al Azhar Park</string>
     <string name="Al_Azhar_Park_text">Al-Azhar Park is a public park located in Cairo, Egypt. Among several honors, this park is listed as one of the world iss sixty great public spaces by the Project for Public Spaces.</string>
@@ -66,13 +61,11 @@
     <string name="Al_Azhar_Park_phon">-------------</string>
     <string name="Al_Azhar_Park_place">Al Azhar</string>
 
-
     <string name="Khan_el_Khalili_name">Khan el-Khalili</string>
     <string name="Khan_el_Khalili_text">Khan el-Khalili is a major souk in the historic center of Islamic Cairo. The bazaar district is one of Cairo-s main attractions for tourists and Egyptians alike.</string>
     <string name="Khan_el_Khalili_web">https://en.wikipedia.org/wiki/Khan_el-Khalili</string>
     <string name="Khan_el_Khalili_phon">-------------</string>
     <string name="Khan_el_Khalili_place">Al Azhar</string>
-
 
     <string name="Cairo_Citadel_name">Cairo Citadel</string>
     <string name="Cairo_Citadel_text">The Saladin Citadel of Cairo is a medieval Islamic fortification in Cairo, Egypt. The location, on Mokattam hill near the center of Cairo, was once famous for its fresh breeze and grand views of the city.</string>
@@ -80,13 +73,11 @@
     <string name="Cairo_Citadel_phon">-------------</string>
     <string name="Cairo_Citadel_place">Al Abageyah</string>
 
-
     <string name="restelnail_name">El Nile Restaurant</string>
     <string name="restelnail_text">Asian Food</string>
     <string name="restelnail_web">https://www.elmenus.com/cairo/restaurants/el-nile-restaurant-5916/nasr-city-8344</string>
     <string name="restelnail_phon">01149681751</string>
     <string name="restelnail_place">4 Abou Haneefa Street- Cairo</string>
-
 
     <string name="left_bank_name">Left Bank</string>
     <string name="left_bank_text">Breakfast , Work Or Study , Romantic , Food with a View , Artisanal Pizza</string>
@@ -207,7 +198,4 @@
     <string name="mallegypt_web">https://www.facebook.com/pg/MallOfEgypt/about/?ref=page_internal</string>
     <string name="mallegypt_phon"></string>
     <string name="mallegypt_place">October 6, Al Jizah,</string>
-
-
-
 </resources>

@@ -1,20 +1,11 @@
 package com.example.android.toureguideegyptnew;
 
-
-import android.content.Intent;
-import android.location.Location;
-import android.media.AudioManager;
-import android.media.MediaPlayer;
 import android.os.Bundle;
-import android.os.Parcelable;
 import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.AdapterView;
 import android.widget.ListView;
-import android.widget.TextView;
-
 import java.util.ArrayList;
 
 /**
@@ -84,7 +75,7 @@ public class TourismFragment extends Fragment {
                 R.string.Al_Azhar_Park_place,
                 R.drawable.azharpark));
 
-       OutingAdabter adapter = new OutingAdabter(getActivity(), outings, R.color.colorBrawen);
+        OutingAdabter adapter = new OutingAdabter(getActivity(), outings, R.color.colorBrawen);
 
         // Find the {@link ListView} object in the view hierarchy of the {@link Activity}.
         // There should be a {@link ListView} with the view ID called list, which is declared in the
